@@ -16,7 +16,7 @@ npm init -y
 
 ## Install dependencies
 ```
-npm install -D autoprefixer postcss tailwindcss parcel@nightly
+npm install -D autoprefixer postcss tailwindcss vite
 ```
 
 ## init tailwindcss
